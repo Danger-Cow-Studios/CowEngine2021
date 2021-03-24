@@ -1,0 +1,12 @@
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\bin\Debug\net5.0\CowEngine2021.deps.json
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\bin\Debug\net5.0\CowEngine2021.dll
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\bin\Debug\net5.0\ref\CowEngine2021.dll
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\bin\Debug\net5.0\CowEngine2021.pdb
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\obj\Debug\net5.0\CowEngine2021.csprojAssemblyReference.cache
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\obj\Debug\net5.0\CowEngine2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\obj\Debug\net5.0\CowEngine2021.AssemblyInfoInputs.cache
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\obj\Debug\net5.0\CowEngine2021.AssemblyInfo.cs
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\obj\Debug\net5.0\CowEngine2021.csproj.CoreCompileInputs.cache
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\obj\Debug\net5.0\CowEngine2021.dll
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\obj\Debug\net5.0\ref\CowEngine2021.dll
+C:\Users\egg\source\repos\CowEngine2021\CowEngine2021\obj\Debug\net5.0\CowEngine2021.pdb

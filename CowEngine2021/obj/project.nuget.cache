@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYmzYDxukZWFX/QClYMYoNd1PsmUvPhHWwCtlN1hyW4DD2fS6wDrFAipK2Zztq9B2Os3rqWZqAF1KT+YlMlUzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egg\\source\\repos\\CowEngine2021\\CowEngine2021\\CowEngine2021.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egg\\.nuget\\packages\\raylib-cs\\3.5.0\\raylib-cs.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
